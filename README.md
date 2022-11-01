@@ -1,4 +1,4 @@
-This ks my version of the PacMan assignment for the MIT XPRO coding course. By clicking the"Generate PacMan" button, there will be a PacMan generated on the screen, and the "Begin Motion" button will cause it to move across the screen.
+This is my version of the PacMan assignment for the MIT XPRO coding course. By clicking the"Generate PacMan" button, there will be a PacMan generated on the screen, and the "Begin Motion" button will cause it to move across the screen.
 
 Copyright (c) 2020 John Williams
 
